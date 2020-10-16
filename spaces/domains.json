@@ -1,8 +1,6 @@
 {
-  "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
-  "gov.xfinance.io": "xfinance",
   "pillar.snapshot.page": "pillar",
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
@@ -17,10 +15,5 @@
   "vote.cream.finance": "cream",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
-  "gov.synthetix.io": "synthetix",
-  "voting.pancakeswap.finance": "pancake",
-  "gov.wassies.com": "wassies",
-  "signal.osho.finance": "love",
-  "voting.amplesense.io": "kmpl",
-  "gov.mettalex.com": "mettalex"
+  "gov.synthetix.io": "synthetix"
 }

@@ -9,8 +9,6 @@
     "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534"
   ],
   "min": 1,
-  "invalid": [
-    "QmdxrApBvuX55gZ8YXhMWycBurRZmK7erWvZeenusuSnAF"
-  ],
+  "invalid": [],
   "skin": "yakuza"
 }
